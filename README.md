@@ -2,6 +2,7 @@
 
 Esse projeto é um quiz interativo sobre Nirvana e Kurt Cobain, criado para praticar programação de forma simples e divertida. A ideia é que o usuário responda perguntas dentro de um tempo limite, acumule pontos e, no final, veja seu desempenho no jogo.
 
+
 🛠️ Tecnologias Utilizadas
 
 HTML5 → usado para montar a estrutura da página
@@ -15,6 +16,7 @@ DOM Manipulation → atualização das perguntas e informações na tela
 setInterval() → controle do cronômetro
 
 Arrays e Objetos → armazenamento das perguntas e respostas
+
 
 👥 Integrantes
 
