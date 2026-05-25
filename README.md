@@ -16,4 +16,17 @@ setInterval() → controle do cronômetro
 
 Arrays e Objetos → armazenamento das perguntas e respostas
 
+👥 Integrantes
+
+Pedro Siqueira
+
+Arthur Hamilton
+
+Arthur Pereira
+
+Giovanni
+
+João Pedro
+
+Rafael Ramos
 
