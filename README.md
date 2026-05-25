@@ -28,7 +28,7 @@ Arthur Pereira
 
 Giovanni
 
-João Pedro
+João
 
 Rafael Ramos
 
